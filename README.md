@@ -8,19 +8,7 @@
 
 
 ![Ilsur's github stats](https://github-readme-stats.vercel.app/api?username=ilsur-dev111&show_icons=true)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
+
 
 
 <!--

@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+- 🔭 I’m Ilsur Akhmetyanov
+- 📲 I am developing mobile applications on Xamarin iOS and Android
+- 🧑🏻‍💻 I am also developing WEB services ASP.NET WebAPI, Fullstack developer
+- 🌱 Contact me ilsurakhmetyanov111@gmail.com
+- 🙈 I love Microsoft development tools
+
+
+![Ilsur's github stats](https://github-readme-stats.vercel.app/api?username=ilsur-dev111&show_icons=true)
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+
+
 <!--
 **ilsur-dev111/ilsur-dev111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

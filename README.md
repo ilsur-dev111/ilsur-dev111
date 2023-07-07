@@ -6,8 +6,12 @@
 - 🌱 Contact me [Telegram](https://t.me/@ilsurdev)
 - 🙈 I love Microsoft development tools
 
-
+<!--
 ![Ilsur's github stats](https://github-readme-stats.vercel.app/api?username=ilsur-dev111&show_icons=true)
+-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilsur-dev111)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilsur-dev111&hide=typescript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

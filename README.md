@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m Ilsur Akhmetyanov
-- 📲 I am developing mobile applications on Xamarin iOS and Android
+- 📲 I am developing mobile applications iOS and Android
 - 🧑🏻‍💻 I am also developing WEB services ASP.NET WebAPI, Fullstack developer
 - 🌱 Contact me [Telegram](https://t.me/ilsurdev)
 - 🙈 I love Microsoft development tools
